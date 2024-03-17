@@ -7,8 +7,7 @@
 *********************************************************************
 #Github: https://github.com/vipinjangra<br>
 #Youtube: https://www.youtube.com/c/vipincoding/<br>
-#Blog: http://vipincoding.wordpress.com/<br>
-#Website: http://vipincoding.blogspot.com<br>
-#Facebook: https://www.facebook.com/vipincoding<br>
-#Instagram: https://www.instagram.com/vipincoding/<br>
+#Website: http://vipincoding.graphy.com<br>
+#Facebook: https://www.facebook.com/vstutorialsss<br>
+#Instagram: https://www.instagram.com/vstutorials_<br>
 *********************************************************************
